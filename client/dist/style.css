@@ -189,9 +189,11 @@ html, body {
 }
 .projectBlurb {
  width: 40%;
+ min-width: 320px;
 }
 .projectPic {
  width: 40%;
+ min-width: 320px;
 }
 .projButton {
   border: 0px solid black;

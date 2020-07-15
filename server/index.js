@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');;
 const morgan = require('morgan');
 const cors = require('cors');
 const path = require('path');
-const port = 5050;
+const port = 443;
 //const resume = require('../client/dist/Kyle_Shelton.pdf')
 //const dbHelpers = require('../db/dbHelpers');
 
